@@ -8,7 +8,7 @@ repsonse = rekog.recognize_celebrities(
       
        'S3Object': {
            'Bucket': 'theculture2',
-           'Name': 'celeb.jpg'
+           'Name': 'dwash.jpg'
            
        }
    }
